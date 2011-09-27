@@ -1,0 +1,3 @@
+# Module hellogae
+# RPC service class, partial path of RPC policy file
+uno21.labs.gae.client.GreetingService, ACC0701AD19E1136181D7BB76F7AAA80.gwt.rpc

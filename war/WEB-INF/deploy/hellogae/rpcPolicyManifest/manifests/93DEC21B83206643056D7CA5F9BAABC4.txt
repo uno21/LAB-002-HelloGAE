@@ -1,0 +1,2 @@
+serviceClass: uno21.labs.gae.client.GreetingService
+path: ACC0701AD19E1136181D7BB76F7AAA80.gwt.rpc
